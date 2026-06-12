@@ -1,1 +1,34 @@
-[{"name": "Aayush", "age": 21, "email": "ayush123@gmail.com", "pin": 3874, "accountNo.": "xF67$K3", "balance": 3000}]
+[
+  {
+    "name": "Aayush",
+    "age": 21,
+    "email": "ayush123@gmail.com",
+    "pin": 3874,
+    "accountNo.": "xF67$K3",
+    "balance": 3000
+  },
+  {
+    "name": "Radha",
+    "age": 19,
+    "email": "radhakesharwani606@gmail.com",
+    "pin": 8765,
+    "accountNo": "2F3X45X",
+    "balance": 0
+  },
+  {
+    "name": "radha",
+    "age": 19,
+    "email": "radhakesharwani606@gmail.com",
+    "pin": 5674,
+    "accountNo": "773POD9",
+    "balance": 0
+  },
+  {
+    "name": "Shraddha",
+    "age": 20,
+    "email": "shradhakesharwani123@gmail.com",
+    "pin": 7654,
+    "accountNo": "K901FQ2",
+    "balance": 0
+  }
+]

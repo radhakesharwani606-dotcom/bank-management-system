@@ -3,8 +3,6 @@ import random
 import string
 from pathlib import Path
 
-
-
 class Bank:
 
     database='data.json'
@@ -133,7 +131,6 @@ class Bank:
         
         pin=int(input("tell your pin number:-"))
         
-
         userdata=[i for i in Bank.data if i['accountNo.']==accnumber and i['pin']==pin]
         
         if userdata==False:
@@ -150,7 +147,7 @@ print("press 2 for depositing the money in the bank")
 print("press 3 for withdrawing the money ")
 print("press 4 for accessing the details")
 print("press 5 for  update details")
-print("press 6 for deleting an account")
+print("press 6 for deleting an account") 
 
 check =int(input("tell your respose:-"))
 if check ==1:
